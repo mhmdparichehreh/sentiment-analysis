@@ -1,1 +1,1 @@
-
+Applied machine learning algorithms for sentiment analysis of tweets, utilizing various classification models and feature extraction techniques, particularly highlighting the effectiveness of Logistic Regression with TF-IDF. The study aimed to help businesses analyze user sentiments and make informed decisions based on social media interactions.
